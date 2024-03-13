@@ -1,0 +1,22 @@
+{
+  "name": "kimetsu_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betzabhe-Vega/Kimetsu_Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Betzabhe-Vega/Kimetsu_Page/issues"
+  },
+  "homepage": "https://github.com/Betzabhe-Vega/Kimetsu_Page#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
